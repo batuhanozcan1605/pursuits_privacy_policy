@@ -1,4 +1,4 @@
-**Privacy Policy**
+**Privacy Policy of Pursuits app**
 
 **Introduction**
 
