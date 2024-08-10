@@ -1,9 +1,11 @@
 **Privacy Policy**
 **Introduction**
+
 Our privacy policy will help you understand what information we collect at Pursuits, how Pursuits uses it, and what choices you have. Batuhan Özcan built the Pursuits app as a free app. This SERVICE is provided by Batuhan Özcan at no cost and is intended for use as is. If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise defined in this Privacy Policy.
 
 **Information Collection and Use**
+
 In Pursuits app, we do not need any personal information. We only collect anonymous feedbacks. In the future updates, an e-mail might going to be required for authentication.
 The app does use third party services that may collect information used to identify you which are AdMob and RevenueCat.
 
