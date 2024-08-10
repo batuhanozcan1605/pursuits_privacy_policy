@@ -7,8 +7,8 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Information Collection and Use**
 
-In Pursuits app, we do not need any personal information. We only collect anonymous feedbacks. In the future updates, an e-mail might going to be required for authentication.
-The app does use third party services that may collect information used to identify you which are AdMob and RevenueCat.
+In Pursuits app, we do not need to collect any personal information. We only collect anonymous feedbacks. In the future updates, an e-mail might going to be required for authentication.
+The app does use third party services that may collect information for identifying you which are secure platrforms such as AdMob and RevenueCat.
 
 **Cookies**
 
