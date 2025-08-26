@@ -61,7 +61,7 @@ Welcome to *Pursuits*. By downloading or using this app, you agree to these Term
 ---
 
 ## 9. Governing Law
-- These Terms are governed by the laws of Turkey and USA (App Stores, Admob, Revenuecat).  
+- These Terms are governed by the laws of Türkiye and USA (App Stores, Admob, Revenuecat).  
 - Any disputes shall be resolved under the jurisdiction of the courts in that country.  
 
 ---
