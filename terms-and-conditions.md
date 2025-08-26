@@ -1,6 +1,6 @@
 # Terms and Conditions
 
-**Last updated: [insert date]**
+**Last updated: Aug 27 2025**
 
 Welcome to *Pursuits*. By downloading or using this app, you agree to these Terms and Conditions. Please read them carefully before using the service.
 
